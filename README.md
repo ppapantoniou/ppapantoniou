@@ -15,3 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?text=Hello%20there!&fontAlign=75&fontAlignY=30&type=waving&fontSize=50&color=auto)
+## 👨🏻‍💻 A little bit about me and my interests.
+```yaml
+name: Polychronis Papantoniou
+located_in: Athens, Greece
+current_occupation: Student
+
+fields_of_interests:
+  [
+    "Software Development",
+    "Mobile Development",
+    "Information and Coding theory"
+ ]
+currently_learning: ["C, C++ and Swift"]
+hobbies: ["Gym", "Music", "Gaming"]
+```
