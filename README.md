@@ -27,7 +27,7 @@ fields_of_interests:
     "Mobile Development",
     "Information and Coding theory"
  ]
-currently_learning: ["C, C++ and Swift"]
+currently_learning: ["C and Swift"]
 hobbies: ["Gym", "Music", "Gaming"]
 ```
 <p align="left">
