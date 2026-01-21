@@ -35,4 +35,3 @@ hobbies: ["Gym💪🏼", "Music🎧", "Gaming🕹️"]
     <img src="https://github.com/user-attachments/assets/cb394dca-5014-4396-8b3b-44c3c6c31376" alt="My Apple Music profile" width="64" height="64">
   </a>
 </p>
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
